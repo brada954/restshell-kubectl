@@ -61,4 +61,3 @@ func (cmd *KubectlCommand) Execute(args []string) error {
 	}
 	return err
 }
-
